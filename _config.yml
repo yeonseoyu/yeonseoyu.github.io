@@ -25,7 +25,7 @@ url                      : "https://yeonseoyu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yeonseoyu/yeonseoyu.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/니모.png"
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "유연서"
-  avatar           : "/assets/images/도리.png"
+  avatar           : "/assets/images/avator.png"
   bio              : "행복한 학생"
   location         : "대한민국, 외대부고"
   email            : "21-21016@hafs.hs.kr"
