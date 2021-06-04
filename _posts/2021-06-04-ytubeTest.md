@@ -2,6 +2,9 @@
 layout: single
 title: 유튜브 동영상 삽입하기"
 theme: K-Drama
+toc: true
+toc_sticky: true
+toc_label: "패이지 주요 목차"
 ---
 
 ### 뷰티 인사이드
