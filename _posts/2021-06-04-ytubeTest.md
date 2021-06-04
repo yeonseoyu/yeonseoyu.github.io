@@ -1,6 +1,14 @@
 ---
 layout: single
 title: 유튜브 동영상 삽입하기"
+theme: K-Drama
 ---
 
+### 뷰티 인사이드
+
 {% include video id="r9Jt6oEsfwE" provider="youtube" %}
+
+---
+
+
+
