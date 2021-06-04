@@ -14,6 +14,15 @@ theme: K-Drama
 
 {% include video id="WKTYtfpPgac" provider="youtube" %}
 
+---
+
+### 푸른 바다의 전설
+
+{% include video id="n4Fl3w0yoAY" provider="youtube" %}
+
+---
+
+
 
 
 
