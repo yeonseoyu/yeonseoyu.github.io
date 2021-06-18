@@ -5,6 +5,7 @@ theme: K-Drama
 toc: true
 toc_sticky: true
 toc_label: "패이지 주요 목차"
+categories: 
 ---
 
 ### 뷰티 인사이드(2018)
